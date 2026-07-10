@@ -14,6 +14,7 @@
 /* Navbar Styles */
 
 .navbar{
+    border-top: #1D4ED8;
     margin: 23.5px auto;
     display: flex;
     justify-content: space-between;
@@ -44,4 +45,48 @@
     font-weight: 700;
     padding: 12px 41px;
     cursor: pointer;
+}
+
+/* Hero Styles */
+
+.hero{
+    background: linear-gradient(to right,rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0.1)), url("./assets/banner.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 871px;
+    background-position: center;
+}
+.hero-content{
+    height: 850px;
+    color: #ffffff;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.hero-text{
+    font-family: "Inter";
+    text-align: center;
+}
+.hero-text h1{
+    font-size: 48px;
+    font-weight: 700;
+    padding-bottom: 20px;
+}
+.hero-text p{
+    font-size: 24px;
+    font-weight: 200;
+    padding-bottom: 20px;
+}
+.hero-btn button{
+    border: none;
+    border-radius: 8px;
+    background-color: #1D4ED8;
+    color: #ffffff;
+    font-family: "Inter";
+    font-size: 24px;
+    font-weight: 700;
+    padding: 20px 50px;
+    cursor: pointer;
+    margin-top: 100%;
 }
