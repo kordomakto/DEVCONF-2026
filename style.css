@@ -5,9 +5,43 @@
     padding: 0;
 }
 .container{
-    margin: auto 55.5px;
-    padding: auto 60px;
+    max-width: 1200px;
+    width: 90%;
+    margin: 0 auto;
+    padding: auto 20px;
 }
 
 /* Navbar Styles */
 
+.navbar{
+    margin: 23.5px auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 20px;
+}
+
+.nav-items{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+.nav-items li a{
+    text-decoration: none;
+    color: #575757;
+    font-family: "Inter";
+    font-size: 18px;
+    font-weight: 500;
+}
+.nav-btn button{
+    border: none;
+    border-radius: 8px;
+    background-color: #1D4ED8;
+    color: #ffffff;
+    font-family: "Inter";
+    font-size: 18px;
+    font-weight: 700;
+    padding: 12px 41px;
+    cursor: pointer;
+}
