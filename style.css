@@ -1,0 +1,13 @@
+/* Universal & common Styles */
+
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    margin: auto 55.5px;
+    padding: auto 60px;
+}
+
+/* Navbar Styles */
+
