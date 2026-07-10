@@ -92,6 +92,7 @@
 }
 
 /* Speakers Styles */
+
 .speakers h1{
     font-family: "Inter";
     font-size: 48px;
@@ -138,4 +139,115 @@
     font-weight: 400px;
     color: #575757;
     padding: 0 0 24px 24px;
+}
+/* Speakers Styles */
+
+.pricing{
+    padding-top: 50px;
+    font-family: "Inter";
+}
+.pricing-head h1{
+    font-size: 48px;
+    font-weight: 700;
+    text-align: center;
+}
+.pricing-head p{
+    font-size: 16px;
+    font-weight: 200px;
+    text-align: center;
+    color: #575757;
+    line-height: 24px;
+    padding: 12px 0 48px 0;
+}
+.price-flex{
+    display: flex;
+    justify-content: center;
+    gap: 30px;
+    margin-bottom: 75px;
+}
+.price-card{
+    height: 444px;
+    width: 371px;
+    background-color: #f8f9fb;
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 0 4px rgba(0, 0, 0, 0.16);
+    padding: 24px 28px;
+}
+.pro{
+    background: #0D1B2A;
+}
+.price-card h6{
+    font-size: 13px;
+    font-weight: 600;
+    line-height: 19.5px;
+    color: #888888;
+}
+.price-card h1{
+    font-size: 44px;
+    font-weight: bold;
+    line-height: 44px;
+    color: #0D1B2A;
+    padding: 8px 0 4px 0;
+}
+.price-card p{
+    font-size: 13px;
+    font-weight:400;
+    line-height: 19.5px;
+    color: #888888;
+    padding-bottom: 20px;
+}
+.price-card ul {
+    border-top: solid #000000;
+    list-style-position: inside;
+    line-height: 21px;
+    font-weight: 400;
+    color: #333333;
+}
+.price-card ul li {
+    margin-bottom: 14px;
+    margin-top: 20px;
+}
+.price-card li::marker{
+    color: #2563eb;
+}
+.pro h6{
+    color: #93C5FD;
+}
+.pro h1{
+    color: #ffffff;
+}
+.pro ul{
+    color: #ffffffcd;
+    border-top: solid #ffffff23;
+}
+.cmn-btn{
+    border: solid #1D4ED8 ;
+    border-radius: 8px;
+    color: #1D4ED8;
+    background-color: #ffffff;
+    height: 45px;
+    width: 305px;
+    font-family: "Inter";
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 21px;
+    display: block;
+    margin: 20px auto;
+    cursor: pointer;
+}
+.pro-btn{
+    border: none;
+    border-radius: 8px;
+    background-color: #1D4ED8;
+    color: #ffffff;
+    height: 45px;
+    width: 305px;
+    font-family: "Inter";
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 21px;
+    display: block;
+    margin: 20px auto;
+    cursor: pointer;
 }
