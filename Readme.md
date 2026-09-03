@@ -5,14 +5,15 @@ An interactive, fully responsive landing and registration platform for developer
 ---
 
 ## 🔗 Live Preview & Links
-- 🌐 **Live Website:** [View Live Demo](আপনার-লাইভ-লিংক-দিন)
+- 🌐 **Live Website:** [View Live Demo](https://hakim-azizul.github.io/DEVCONF-2026/)
 - 📁 **Source Code:** [GitHub Repository](https://github.com/hakim-azizul/DEVCONF-2026)
 
 ---
 
 ## 📸 Project Preview
 <div align="center">
-  <img src="screenshot.png" alt="DEVCONF-2026 Preview Screenshot" width="100%" />
+  <img src="<img width="783" height="947" alt="image" src="https://github.com/user-attachments/assets/fa5307d6-4642-416d-b004-aa477ada3d1f" />
+" alt="DEVCONF-2026 Preview Screenshot" width="100%" />
 </div>
 
 
