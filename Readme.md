@@ -12,8 +12,7 @@ An interactive, fully responsive landing and registration platform for developer
 
 ## 📸 Project Preview
 <div align="center">
-  <img src="<img width="783" height="947" alt="image" src="https://github.com/user-attachments/assets/fa5307d6-4642-416d-b004-aa477ada3d1f" />
-" alt="DEVCONF-2026 Preview Screenshot" width="100%" />
+  <img width="720" height="940" alt="image" src="https://github.com/user-attachments/assets/6fd240ac-197a-4877-a60a-82dc61ca2b0c" alt="DEVCONF-2026 Preview Screenshot" width="100%" />
 </div>
 
 
